@@ -1,0 +1,11 @@
+{
+  "name": "arnabmunshi/hello-world-package",
+  "description": "A hello word composer private package",
+  "autoload": {
+    "psr-4": {
+      "arnabmunshi\\HelloWorldPackage\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
