@@ -4,7 +4,7 @@
 composer require arnabmunshi/hello-world-package
 ```
 
-```
+```php
 require 'vendor/autoload.php';
 
 use arnabmunshi\HelloWorldPackage\HelloWorld;
